@@ -1,8 +1,7 @@
-## Hello People!
-
+## Hello People! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />
 ![Banner](https://github.com/Buzzpy/Buzzpy/blob/main/Buzzpy%20(1).png?raw=true)
 
-This is Buzzpy, a buzzy pythoneer. I love coding, and like many code lovers, I too have got the ability just to sit and code all day long. Besides coding, I enjoy reading and video games!
+This is Buzzpy, a buzzy pythoneer. I love coding, and like many code lovers, I too have got the ability just to sit and code all day long. Besides coding, I enjoy reading and video games! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/upside-down-face.gif" width="26" />
 
 ### <u> Skills and Tools </u>
 **Industrial Knowledge** → SEO, Programming, Data Analysis, Web Design
@@ -39,6 +38,7 @@ This is Buzzpy, a buzzy pythoneer. I love coding, and like many code lovers, I t
 - 😎 Fun Fact: A Potterhead, ask me anything about Harry Potter!
 - 📫 Say Hi!: [buzzpy123@gmail.com](mailto:buzzpy123@gmail.com)
 
+### Thanks for checking in!  <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/smiling-face-with-hearts.gif" width="30" />
 <!---
 Buzzpy/Buzzpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
