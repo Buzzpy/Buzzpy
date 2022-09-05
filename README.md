@@ -25,7 +25,7 @@ This is Buzzpy, a buzzy pythoneer. I love coding, and like many code lovers, I t
 ![Numpy](https://img.shields.io/badge/numpy-013243?&style=for-the-badge&logo=numpy&logoColor=cyan)
 ![Vercel](https://img.shields.io/badge/vercel-black?&style=for-the-badge&logo=vercel&logoColor=cyan)
 ![Github Pages](https://img.shields.io/badge/githubpages-222222?&style=for-the-badge&logo=githubpages&logoColor=white)
-![SEO](https://img.shields.io/badge/githubpages-222222?&style=for-the-badge&logo=seo&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-red?&style=for-the-badge&logo=figma&logoColor=white)
 
 ### Personal Facts
 
