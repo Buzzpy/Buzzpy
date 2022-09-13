@@ -1,4 +1,4 @@
-## Hello People! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />
+## Hello, Beautiful People! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />
 ![Banner](https://github.com/Buzzpy/Buzzpy/blob/main/Buzzpy%20(1).png?raw=true)
 
 This is Buzzpy, a buzzy pythoneer. I love coding, and like many code lovers, I too have got the ability just to sit and code all day long. Besides coding, I enjoy reading and video games! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/upside-down-face.gif" width="26" />
