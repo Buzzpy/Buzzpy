@@ -1,4 +1,4 @@
-## Hello, Beautiful People! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />
+## Hello, People! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />
 ![Banner](https://github.com/Buzzpy/Buzzpy/blob/main/Buzzpy%20(1).png?raw=true)
 
 This is Buzzpy, a buzzy pythoneer. I love coding, and like many code lovers, I too have got the ability just to sit and code all day long. Besides coding, I enjoy reading and video games! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/upside-down-face.gif" width="26" />
@@ -37,6 +37,9 @@ This is Buzzpy, a buzzy pythoneer. I love coding, and like many code lovers, I t
 - 🏡 Social Status: Introvert, exists nowhere on Twitter, Facebook, or other social media.
 - 😎 Fun Fact: A Potterhead, ask me anything about Harry Potter!
 - 📫 Say Hi!: [buzzpy123@gmail.com](mailto:buzzpy123@gmail.com)
+
+ ![image](https://github.com/Buzzpy/Buzzpy/assets/112791625/2e375c32-7dcc-4563-bbdf-0747a8382431)
+
 
 ### Thanks for checking in!  <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/smiling-face-with-hearts.gif" width="30" />
 <!---
