@@ -1,7 +1,6 @@
 ## Hello, People! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />
 ![Banner](https://github.com/Buzzpy/Buzzpy/blob/main/Buzzpy%20(1).png?raw=true)
 
-This is Buzzpy, a buzzy pythoneer. I love coding, and like many code lovers, I too have got the ability just to sit and code all day long. Besides coding, I enjoy reading and video games! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/upside-down-face.gif" width="26" />
 
 ### <u> Skills and Tools </u>
 **Industrial Knowledge** → SEO, Programming, Data Analysis, Web Design
@@ -35,7 +34,7 @@ This is Buzzpy, a buzzy pythoneer. I love coding, and like many code lovers, I t
 - 🎯 Current Goal: Write my own book
 - 🌱 Currently Mastering: Photoshop and JavaScript
 - 🏡 Social Status: Introvert, exists nowhere on Twitter, Facebook, or other social media.
-- 😎 Fun Fact: A Potterhead, ask me anything about Harry Potter!
+- 😎 Fun Fact: I was once a "Mr." online— [view my other Github Account](https://github.com/SmallLion)
 - 📫 Say Hi!: [buzzpy123@gmail.com](mailto:buzzpy123@gmail.com)
 
 
