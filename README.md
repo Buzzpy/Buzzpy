@@ -38,6 +38,7 @@ This is Buzzpy, a buzzy pythoneer. I love coding, and like many code lovers, I t
 - 😎 Fun Fact: A Potterhead, ask me anything about Harry Potter!
 - 📫 Say Hi!: [buzzpy123@gmail.com](mailto:buzzpy123@gmail.com)
 
+
  ![image](https://github.com/Buzzpy/Buzzpy/assets/112791625/2e375c32-7dcc-4563-bbdf-0747a8382431)
 
 
