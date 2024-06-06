@@ -1,5 +1,4 @@
 ## Hello, People! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />
-![Banner](https://github.com/Buzzpy/Buzzpy/blob/main/Buzzpy%20(1).png?raw=true)
 
 
 ### <u> Skills and Tools </u>
