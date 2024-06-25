@@ -2,7 +2,7 @@
 
 Visit my Portfolio - [chenuli.carrd.co](https://chenuli.carrd.co)
 ### <u> Skills and Tools </u>
-**Industrial Knowledge** → SEO, Programming, Data Analysis, Web Design
+**Industrial Knowledge** → SEO, Programming, Data Analysis, Web Design, Machine Learning
 
 **Tools and Technologies** → Python (Main Programming Language), HTML, CSS, Bootstrap, Git and Github, Unity Game Engine, Figma
 
