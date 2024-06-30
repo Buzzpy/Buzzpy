@@ -1,6 +1,9 @@
 ## Hello, People! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />
+![Buzzpy](https://github.com/Buzzpy/Buzzpy/assets/112791625/3f7f4b63-468c-4409-a978-83517e486333)
 
 Visit my Portfolio - [chenuli.carrd.co](https://chenuli.carrd.co)
+
+And if you wanna hire me, better check out my LinkedIn: [Chenuli Jayasinghe](https://www.linkedin.com/in/chenuli-j/) - (You won't regert doing it, trust me)
 ### <u> Skills and Tools </u>
 **Industrial Knowledge** → SEO, Programming, Data Analysis, Web Design, Machine Learning
 
