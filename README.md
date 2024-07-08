@@ -1,5 +1,5 @@
 ## Hello, People! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />
-![Buzzpy](https://github.com/Buzzpy/Buzzpy/assets/112791625/3f7f4b63-468c-4409-a978-83517e486333)
+![Github Banner](https://github.com/Buzzpy/Buzzpy/assets/112791625/5b5cc1ea-5100-4be2-93da-21e3ae61807b)
 
 Visit my Portfolio - [chenuli.carrd.co](https://chenuli.carrd.co)
 
