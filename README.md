@@ -2,8 +2,9 @@
 ![Github Banner](https://github.com/Buzzpy/Buzzpy/assets/112791625/5b5cc1ea-5100-4be2-93da-21e3ae61807b)
 
 Visit my Portfolio - [chenuli.carrd.co](https://chenuli.carrd.co)
+My LinkedIn: [Chenuli Jayasinghe](https://www.linkedin.com/in/chenuli-j/) 
 
-And if you wanna hire me, better check out my LinkedIn: [Chenuli Jayasinghe](https://www.linkedin.com/in/chenuli-j/) - (You won't regert doing it, trust me)
+#### Latest Project: [Dev Encyclopedia](https://devpedia.pages.dev/)
 ### <u> Skills and Tools </u>
 **Industrial Knowledge** → SEO, Programming, Data Analysis, Web Design, Machine Learning
 
