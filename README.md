@@ -31,7 +31,7 @@ My LinkedIn: [Chenuli Jayasinghe](https://www.linkedin.com/in/chenuli-j/)
 
 ### Personal Facts
 
-
+- 🇱🇰 Born in: Sri Lanka 
 - 💼 Works as a Freelancer
 - 😇 Real Name: Chenuli Jayasinghe
 - 😊 Pronouns: She/Her
