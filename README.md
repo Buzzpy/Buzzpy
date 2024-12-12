@@ -1,7 +1,7 @@
 ## Hello, People! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />
 ![Github Banner](https://github.com/Buzzpy/Buzzpy/assets/112791625/5b5cc1ea-5100-4be2-93da-21e3ae61807b)
 
-Visit my Portfolio - [chenuli.carrd.co](https://chenuli.carrd.co)
+Visit my Portfolio - [chenuli.carrd.co](https://chenuli.carrd.co) | 
 My LinkedIn: [Chenuli Jayasinghe](https://www.linkedin.com/in/chenuli-j/) 
 
 #### Latest Project: [Dev Encyclopedia](https://devpedia.pages.dev/)
@@ -28,19 +28,6 @@ My LinkedIn: [Chenuli Jayasinghe](https://www.linkedin.com/in/chenuli-j/)
 ![Vercel](https://img.shields.io/badge/vercel-black?&style=for-the-badge&logo=vercel&logoColor=cyan)
 ![Github Pages](https://img.shields.io/badge/githubpages-222222?&style=for-the-badge&logo=githubpages&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-red?&style=for-the-badge&logo=figma&logoColor=white)
-
-### Personal Facts
-
-- 🇱🇰 Born in: Sri Lanka 
-- 💼 Works as a Freelancer
-- 😇 Real Name: Chenuli Jayasinghe
-- 😊 Pronouns: She/Her
-- 🎯 Current Goal: Write my own book
-- 🌱 Currently Mastering: Photoshop and JavaScript
-- 🏡 Social Status: Introvert, exists nowhere on Twitter, Facebook, or other social media.
-- 😎 Fun Fact: I have two names used for publishing content— Buzzpy and Unity Buddy!
-- 📫 Say Hi!: [buzzpy123@gmail.com](mailto:buzzpy123@gmail.com)
-
 
  ![image](https://github.com/Buzzpy/Buzzpy/assets/112791625/2e375c32-7dcc-4563-bbdf-0747a8382431)
  
