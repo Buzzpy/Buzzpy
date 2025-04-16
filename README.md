@@ -29,6 +29,8 @@ My LinkedIn: [Chenuli Jayasinghe](https://www.linkedin.com/in/chenuli-j/)
 ![Github Pages](https://img.shields.io/badge/githubpages-222222?&style=for-the-badge&logo=githubpages&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-red?&style=for-the-badge&logo=figma&logoColor=white)
 
+
+
  ![image](https://github.com/Buzzpy/Buzzpy/assets/112791625/2e375c32-7dcc-4563-bbdf-0747a8382431)
  
 
