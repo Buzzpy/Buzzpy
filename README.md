@@ -1,8 +1,8 @@
 ## Hello, People! <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />
 ![Github Banner](https://github.com/Buzzpy/Buzzpy/assets/112791625/5b5cc1ea-5100-4be2-93da-21e3ae61807b)
 
-Visit my Portfolio - [chenuli.carrd.co](https://chenuli.carrd.co) | 
-My LinkedIn: [Chenuli Jayasinghe](https://www.linkedin.com/in/chenuli-j/) 
+Personal Web - [chenuli.codedoodles.xyz](https://chenuli.codedoodles.xyz) | 
+LinkedIn - [Chenuli Jayasinghe](https://www.linkedin.com/in/chenuli-j/) 
 
 #### Latest Project: [Dev Encyclopedia](https://devpedia.pages.dev/)
 ### <u> Skills and Tools </u>
