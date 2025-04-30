@@ -5,11 +5,6 @@ Personal Web - [chenuli.codedoodles.xyz](https://chenuli.codedoodles.xyz) |
 LinkedIn - [Chenuli Jayasinghe](https://www.linkedin.com/in/chenuli-j/) 
 
 #### Latest Project: [Dev Encyclopedia](https://devpedia.pages.dev/)
-### <u> Skills and Tools </u>
-**Industrial Knowledge** → SEO, Programming, Data Analysis, Web Design, Machine Learning
-
-**Tools and Technologies** → Python (Main Programming Language), HTML, CSS, Bootstrap, Git and Github, Unity Game Engine, Figma
-
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)
