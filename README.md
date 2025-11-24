@@ -26,7 +26,7 @@ Some tools & tech I have worked with (adding it here to make this ReadMe pretty)
 ![Husky](https://img.shields.io/badge/-Husky-24292E?&style=for-the-badge&logo=git&logoColor=white)
 
 
-
+<!---
 And some stats I have no idea about:
 
 
@@ -37,7 +37,7 @@ And some stats I have no idea about:
  
 
 
-<!---
+
 Buzzpy/Buzzpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
