@@ -2,7 +2,7 @@
 Beep boop, a python developer + technical writer working in AI/ML and Data.
 
 
-Personal Web - [chenuli.codedoodles.xyz](https://chenuli.codedoodles.xyz) | 
+Personal Web - [chenuli-j.me](https://chenuli-j.me) | 
 LinkedIn - [Chenuli Jayasinghe](https://www.linkedin.com/in/chenuli-j/) 
 
 #### Check this out: [Dev Encyclopedia](https://devpedia.dev)
